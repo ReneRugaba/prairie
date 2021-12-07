@@ -4,13 +4,13 @@
 
 ### Javascript :
 
-* [ ] Comprendre l'importance du style dans le code et s'approprier les conventions dans l'objectif de rendre son code le plus lisible possible (https://javascript.info/coding-style)
-  * [ ] Faire l’exercice et analyser ses erreurs
-* [ ] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
-* [ ] Devenir un Ninja du code (https://javascript.info/ninja-code)
-* [ ] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
-  * [ ] Comprendre la différence entre "transpilation" et "compilation"
-  * [ ] Comprendre l'utilité de Babel
+* [X] Comprendre l'importance du style dans le code et s'approprier les conventions dans l'objectif de rendre son code le plus lisible possible (https://javascript.info/coding-style)
+  * [X] Faire l’exercice et analyser ses erreurs
+* [X] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
+* [X] Devenir un Ninja du code (https://javascript.info/ninja-code)
+* [X] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
+  * [X] Comprendre la différence entre "transpilation" et "compilation"
+  * [X] Comprendre l'utilité de Babel
   
 
 #### Exercices
@@ -22,6 +22,6 @@
 
 ### Algo (Révision) : 
 
-  * [ ] Revoir le mécanisme de tri par selection (Selection Sort)
-  * [ ] Revoir le mécanisme de tri par tas (Heap Sort)
-  * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
+  * [X] Revoir le mécanisme de tri par selection (Selection Sort)
+  * [X] Revoir le mécanisme de tri par tas (Heap Sort)
+  * [X] Revoir le mécanisme de tri fusion (Merge Sort)
