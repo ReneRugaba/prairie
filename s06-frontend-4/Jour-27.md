@@ -7,21 +7,21 @@
 
 #### Découvrir le `DOM` :
 
-* [ ] Savoir modifier un document (https://javascript.info/modifying-document)
+* [x] Savoir modifier un document (https://javascript.info/modifying-document)
   * Savoir :
-    * [ ] Créer un `element`
-    * [ ] Utilier les différentes méthodes d'insertions
-    * [ ] Supprimer un `node`
-    * [ ] Cloner un `node`
+    * [x] Créer un `element`
+    * [x] Utilier les différentes méthodes d'insertions
+    * [x] Supprimer un `node`
+    * [x] Cloner un `node`
 
-* [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
-  * [ ] Comprendre la différence entre `className` et `classList`
-  * [ ] Savoir ajouter, supprimer et toggle une classe
-  * [ ] Savoir manipuler les styles dans les `elements`
+* [x] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
+  * [x] Comprendre la différence entre `className` et `classList`
+  * [x] Savoir ajouter, supprimer et toggle une classe
+  * [x] Savoir manipuler les styles dans les `elements`
 
-* [ ] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
-  * [ ] Comprendre la différence entre la taille de la fenêtre et du document
-  * [ ] Comprendre le fonctionnement du défilement
+* [x] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
+  * [x] Comprendre la différence entre la taille de la fenêtre et du document
+  * [X] Comprendre le fonctionnement du défilement
 
 
 * [ ] Comprendre le fonctionnement des coordonnées dans une page web (https://fr.javascript.info/coordinates)

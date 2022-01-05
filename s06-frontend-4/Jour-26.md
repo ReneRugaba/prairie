@@ -5,56 +5,56 @@
 ### Javascript
 
   #### Découvrir le `DOM` :
-  * [ ] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://fr.javascript.info/browser-environment)
+  * [X] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://fr.javascript.info/browser-environment)
   
-  * [ ] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://fr.javascript.info/dom-nodes)
+  * [X] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://fr.javascript.info/dom-nodes)
   
-  * [ ] Comprendre la navigation du DOM (https://fr.javascript.info/dom-navigation) :
-    * [ ] Comprendre la différence entre les `Child Nodes` et les `Descendants`
-    * [ ] Comprendre la différence entre une `collection` et un `array`
-    * [ ] Comprendre la différence entre un `element` et un `node`
-    * [ ] Bien comprendre à quoi correspond : 
-      * [ ] `parentElement`
-      * [ ] `children`
-      * [ ] `firstElementChild`
-      * [ ] `lastElementChild`
-      * [ ] `previousElementSibling`
-      * [ ] `nextElementSibling`
-      * [ ] `parentNode`
-      * [ ] `childNodes`
-      * [ ] `firstChild`
-      * [ ] `lastChild`
-      * [ ] `previousSibling`
-      * [ ] `nextSibling`
-    * [ ] Faire les 3 exercices et analyser ses erreurs
+  * [x] Comprendre la navigation du DOM (https://fr.javascript.info/dom-navigation) :
+    * [x] Comprendre la différence entre les `Child Nodes` et les `Descendants`
+    * [x] Comprendre la différence entre une `collection` et un `array`
+    * [x] Comprendre la différence entre un `element` et un `node`
+    * [x] Bien comprendre à quoi correspond : 
+      * [x] `parentElement`
+      * [x] `children`
+      * [x] `firstElementChild`
+      * [x] `lastElementChild`
+      * [x] `previousElementSibling`
+      * [x] `nextElementSibling`
+      * [x] `parentNode`
+      * [x] `childNodes`
+      * [x] `firstChild`
+      * [x] `lastChild`
+      * [x] `previousSibling`
+      * [x] `nextSibling`
+    * [x] Faire les 3 exercices et analyser ses erreurs
 
-* [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
+* [X] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
-      * [ ] `querySelector`
-      * [ ] `querySelectorAll`
-      * [ ] `getElementById`
-      * [ ] `getElementsByName`
-      * [ ] `getElementsByTagName`
-      * [ ] `getElementsByClassName`
-      * [ ] `elem.matches(css)`
-      * [ ] `elem.closest(css)`
-    * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
+      * [x] `querySelector`
+      * [x] `querySelectorAll`
+      * [x] `getElementById`
+      * [x] `getElementsByName`
+      * [x] `getElementsByTagName`
+      * [x] `getElementsByClassName`
+      * [x] `elem.matches(css)`
+      * [x] `elem.closest(css)`
+    * [x] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
-* [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
-  * [ ] Découvrir la différence entre les `nodeType` (1,3 et 9)
-  * [ ] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
-  * [ ] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
+* [X] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
+  * [x] Découvrir la différence entre les `nodeType` (1,3 et 9)
+  * [X] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
+  * [X] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
   * Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
-  * [ ] Comprendre comment fonctionne `textContent` (quel est son point fort)
-  * [ ] Comprendre comment fonctionne `hidden`
+  * [X] Comprendre comment fonctionne `textContent` (quel est son point fort)
+  * [X] Comprendre comment fonctionne `hidden`
 
-* [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
+* [X] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
-    * [ ] vérifier l'existence d'un `attribute`
-    * [ ] récupérer la valeur d'un `attribute`
-    * [ ] écrire une valeur pour un `attribute`
-    * [ ] supprimer un `attribute`
-    * [ ] récupérer une collection de tous les `attributes`
+    * [X] vérifier l'existence d'un `attribute`
+    * [X] récupérer la valeur d'un `attribute`
+    * [X] écrire une valeur pour un `attribute`
+    * [X] supprimer un `attribute`
+    * [X] récupérer une collection de tous les `attributes`
 
 
 * Codewars :
